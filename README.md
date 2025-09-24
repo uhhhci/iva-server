@@ -1,5 +1,5 @@
 # UHH Intelligent Virtual Human SDK IVA-SERVER
-The Service Connector enables the Intelligent Virtual Human SDK to reliably connect to various AI cloud services.
+The Service Connector enables the Intelligent Virtual Human SDK to reliably connect to various AI cloud services. Please note that the usage of the SDK requires ethical & responsible use. Details can be found [here](./LICENSE.md).
 
 It works together with:
 -  ``intelligent-virtual-agent-sdk`` [unity package](https://github.com/uhhhci/intelligent-virtual-agent-sdk) 
