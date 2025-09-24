@@ -1,9 +1,16 @@
 # UHH Intelligent Virtual Human SDK IVA-SERVER
-The Service Connector enables the Intelligent Virtual Human SDK to reliably connect to various AI cloud services. Please note that the usage of the SDK requires ethical & responsible use. Details can be found [here](./LICENSE.md).
-
+The Service Connector enables the Intelligent Virtual Human SDK to reliably connect to various AI cloud services. 
 It works together with:
 -  ``intelligent-virtual-agent-sdk`` [unity package](https://github.com/uhhhci/intelligent-virtual-agent-sdk) 
 - ``intelligent-virtual-agent-examples`` [unity example project](https://github.com/uhhhci/intelligent-virtual-agent-sdk-examples)
+
+
+<span style="color:red"> ***Please note that the usage of the SDK requires ethical & responsible use. Details can be found [here](./LICENSE.md).***</span>
+
+
+***For more detail on the ethical Issues of impersonation and AI fakes we refer to the following [paper](https://zenodo.org/records/15413114):*** 
+
+Oliva, R., Wiesing, M., Gállego, J., Inami, M., Interrante, V., Lecuyer, A., McDonnell, R., Nouviale, F., Pan, X., Steinicke, F., & Slater, M. (2025). Where Extended Reality and AI May Take Us: Ethical Issues of Impersonation and AI Fakes in Social Virtual Reality (Version 1). Zenodo. 
 
 ## General Information
 
