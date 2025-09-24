@@ -73,7 +73,7 @@ E-Mail: sebastian.rings@uni-hamburg.de, ke.li@uni-hamburg.de
             `PG_PORT=`
 
             
-    For more details on obtaining API keys, refer to the [documentation](https://git.informatik.uni-hamburg.de/presence/WP4/intelligent-virtual-humans-sdk/documentation#getting-api-keys-for-cloud-services).
+    For more details on obtaining API keys, refer to the corresponding websites (e.g [OpenAI](https://auth.openai.com/create-account), [Google Cloud](https://console.cloud.google.com/)).
 
 6. Open the root directory of the cloned ServiceConnector repository in a terminal and install the required packages/dependencies by executing `npm install` in the terminal.
 
